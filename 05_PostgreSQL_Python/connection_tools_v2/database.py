@@ -1,6 +1,3 @@
-""" tool optimized by ChatGPT """
-
-
 import psycopg2
 from psycopg2 import OperationalError, DatabaseError
 from connection_tools_v2.config import load_config
